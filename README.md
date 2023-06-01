@@ -1,4 +1,4 @@
-# Text-to-Speech Beispiel
+# Text-to-Speech HTML
 
 Dieses Beispiel zeigt, wie man mit JavaScript und der Speech Synthesis API einen Text in Sprache umwandeln kann.
 
