@@ -34,12 +34,4 @@ Die Speech Synthesis API wird von verschiedenen Webbrowsern unterschiedlich gut 
 
 ## Autoren
 
-Dieses Beispiel wurde von [Ihr Name] erstellt.
-
-## Lizenz
-
-Dieses Beispiel ist unter der [MIT-Lizenz](https://opensource.org/licenses/MIT) lizenziert.
-
-## Weitere Informationen
-
-Weitere Informationen finden Sie in der Dokumentation der Speech Synthesis API und im Quellcode dieses Beispiels.
+Dieses Beispiel wurde von [Martin20231] erstellt.
